@@ -1,1 +1,2 @@
 latihan git
+dari github
